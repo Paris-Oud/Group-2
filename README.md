@@ -1,2 +1,2 @@
-# Group-2
-Group Project
+# Information System Development Methodologies - Project
+Group 2
