@@ -1,4 +1,4 @@
-# Problem definition
+# Problem Definition
 
 ## Objectives
 
