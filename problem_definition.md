@@ -11,3 +11,21 @@ The Relationship Managers (RMs) require operational assistance in the in-house c
 * Employees
 * Relationship Managers
 * Call Centre Workers/Manager
+
+# Design Thinking Approach to address the problem
+
+# Workproducts, Models and Descriptions
+
+## Workproducts
+
+## Models
+
+## Descriptions
+
+# Competitive Advatanges and Possible Effects if the project fails
+
+## Competitive Advantages
+
+## Possible Effects if the project fails
+
+# Using GitHub to role-play agile methodologies
