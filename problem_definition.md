@@ -34,7 +34,27 @@ The Relationship Managers (RMs) require operational assistance in the in-house c
 
 #### Stage 2 - Define
 
+## Point of View Statements
 
+### Customers
+
+#### User
+
+#### Need
+
+#### Insight
+
+### Relationship Managers (RM)
+
+#### User
+
+#### Need
+
+#### Insight
+
+## How Might We Statements
+
+## Assumptions Made
 
 # Workproducts, Models and Descriptions
 
