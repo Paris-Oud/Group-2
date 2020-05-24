@@ -25,6 +25,17 @@ Inbound calls will reach the call management centre (CMC) which is then routed v
 
 # Design Thinking Approach to address the problem
 
+## Reflection
+
+### Design Thinking Process
+
+#### Stage 1 - Empathy
+
+
+#### Stage 2 - Define
+
+
+
 # Workproducts, Models and Descriptions
 
 ## Workproducts
