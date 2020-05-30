@@ -72,7 +72,19 @@ Through empathizing with the customers and the RM’s, we can see that the call 
 # Competitive Advatanges and Possible Effects if the project fails
 
 ## Competitive Advantages
+The improvements to the Call Management Centres call flow rate implemented by the information system will give the travel company competitive advantage against competitors due to the increased efficiency of Relationship Managers packager sames as well as improving the effectiveness of customer service. 
+
+The efficiency of the service is improved through the system prioritising customers with a higher likelihood of making a purchase based on factors such as whether they are repeat customers. This makes the system more efficient as customers will be more likely to make purchases more quickly as they are prioritised. Additionally, other factors such as their postal code which could be included in the customer questionnaire may be used to also create priority. The competitive advantage for this is the company potentially having more sales per call than their competitors
+
+The effectiveness of the service is improving through the ‘profiler tool’ system which will pair up a customer with a suitable relationship manager based on criteria. This will allow for the Relationship Managers to better understand the customer as they will be matched based on cultural and social factors, leading to better communication between the two parties, improving the likelihood of sales being made. This gives the company an advantage against competitors as it is offering tailored service to customers improving customer relations as well as increasing the company reputation.
+
+Overall, the improvements to the system will offer significant competitive advantage against rival companies due to the projected increase in efficiency and effectiveness of the Call Management Centre.
 
 ## Possible Effects if the project fails
+If the project fails, consumers may mistrust the company's profiling tool and the call management centre overall and be more likely to use alternative service. Additionally, none of the issues gathered during the Design Thinking Process will be resolved.
+
+Mistrust of the call management centre may hinder any future technical changes made by the company as consumers will mistrust the system, making it harder for them to accept the changes and therefore make them less inclined to complete mandatory prerequisites to using the system. An example of this is the questionnaire, which is required for the profiling tool to help match customers with suitable managers.
+
+Due to the Design Thinking Process issues not being resolved, customers will remain unsatisfied with the time inefficiency and lack of quality service in the system, likely switching to an alternative option.
 
 # Using GitHub to role-play agile methodologies
