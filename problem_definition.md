@@ -59,6 +59,20 @@ Through empathizing with the customers and the RM’s, we can see that the call 
 
 ## How Might We Statements
 
+## Reflections and Brainstormed Ideas
+### Reflections
+It has been a bit difficult at first to identify how we can address the problem when taking into account the complexity and detail of the existing system that the travel company is currently using.
+
+### Brainstormed Ideas
+* The profiling tool used in the current system will also be used to match relationship managers to customers based on their level of experience and expertise with the various packages that the travel company has to offer.
+* Customers will also be prioritised based on how likely they will be likely to make a purchase from the travel company.
+
+### Assumptions Made
+* Customers listed their information upon registering to the company
+* Employees listed their information upon joining the company
+* Customers’ details are stored in a database ready for retrieval
+* Relationship managers’ details are stored in a centralised database ready for retrieval
+
 ## Assumptions Made
 It was assumed by the team that customers and employees listed their information upon registering to the company so that the profiling system will be functional with their details stored in a database ready for retrieval.
 
