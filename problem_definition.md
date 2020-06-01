@@ -60,6 +60,7 @@ Through empathizing with the customers and the RM’s, we can see that the call 
 ## How Might We Statements
 
 ## Assumptions Made
+It was assumed by the team that customers and employees listed their information upon registering to the company so that the profiling system will be functional with their details stored in a database ready for retrieval.
 
 # Workproducts, Models and Descriptions
 
