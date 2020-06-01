@@ -91,3 +91,10 @@ Should the existing problem of the current system still exist as a result of pro
 Therefore, it is extremely vital that project failure does not occur in the new and improved system for the travel company as the costs could prove to be profoundly impactful on the overall health and performance of the business.
 
 # Using GitHub to role-play agile methodologies
+
+# References
+Pressman, R.S. & Maxim, B.R. 2015, Software engineering: a practitioner's approach, 8th edn, McGraw-Hill Education, New York, NY.
+
+# Appendix
+
+
