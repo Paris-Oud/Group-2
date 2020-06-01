@@ -44,26 +44,20 @@ Through empathizing with the customers and the RM’s, we can see that the call 
 ### Customers
 
 #### User
-Customers who wish to purchase the companies holiday packages
+
 #### Need
-To purchase holiday packages from the Relationship Managers
+
 #### Insight
-The current situation with inbound calls prevents many suitable customers from being served due to time constraints
+
 ### Relationship Managers (RM)
 
 #### User
-Employees at the company who aim to make sales from inbound and outbound calls
+
 #### Need
-To make informed calls to customers likely to produce sales and to receive calls primarily from those likely to purchase packages
+
 #### Insight
-A more efficient system which matches manager skills with similarly skilled customers will help increase sales 
+
 ## How Might We Statements
-How might we prioritise customers likely to make a purchase
-How might we improve the call process for customers
-How might we increase the efficiency of our calls
-How might we improve the call flow rate
-How might we automate less important actions
-How might we improve the matching process between customers and relationship managers
 
 ## Assumptions Made
 It was assumed by the team that customers and employees listed their information upon registering to the company so that the profiling system will be functional with their details stored in a database ready for retrieval.
@@ -102,5 +96,5 @@ Therefore, it is extremely vital that project failure does not occur in the new 
 Pressman, R.S. & Maxim, B.R. 2015, Software engineering: a practitioner's approach, 8th edn, McGraw-Hill Education, New York, NY.
 
 # Appendix
-
+## Appendix A
 
