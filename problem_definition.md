@@ -4,13 +4,14 @@
 The Relationship Managers (RMs) require operational assistance in the in-house call management centre (CMC) to serve their end-customers based according to the RMs’ experience and customers profiles. Currently, the system operation is complicated by the varying number and nature of holiday packages offered by the travel company.
 
 ## Objectives
-* Create an information system which improves the operation of the call flow rate management centre(CMC) in providing service from customers to relationship managers (RM) through criteria based call flow control and improved call routing. 
+The objectives include:
+* Creating an information system which improves the operation of the call flow rate in the CMC.
+* Having a new and improved system that will provide services from RMs to customers through criteria based call flow control and improved call routing.
+  * Criteria will be formed based on a questionnaire which will also create a ‘target list’ based on RMs’ skills and profiles. The target list would then list potential customers and suggest suitable holiday packages to be sold from RM’s.
+  * The system will also match and prioritise customers to specific criteria based on details retrieved from the database. Details from the database include the customers’ likelihood to purchase the product with factors such as if they are repeat customers.
+  * The information system will give a score to RM’s based on a questionnaire, with the score adjusting based on factors such as the effectiveness of serving customers and past performance to match relationship manager.
+  * A script and guideline will be provided to the RMs to assist them in providing end-customer service. The outbound calls will be taken by RM’s with similar skill and cultural factors.
 
-* The information system will give a score to RM’s based on a questionnaire, with the score adjusting based on factors such as the effectiveness of serving customers and future performance. The questionnaire also will create a ‘target list’ based on their skills and profile which lists potential customers and suitable holiday packages to be sold from RM’s. The system should also match Customers to RM's based on the difficulty of the task as well as specific criteria based on the customers’ information such as surname and postcode.
-
-* Outbound calls will be generated automatically via a system-generated customer target list which utilises customer details from a database, displaying to the RM a script and guideline assisting the manager in providing end-customer service. The outbound calls will be taken by RM’s with similar skill and cultural factors.
-
-* Inbound calls will reach the call management centre (CMC) which is then routed via its own private branch exchange. The identified ‘score’ of the customer will match an RM which will help increase sales.
 
 ## List of Stakeholders
 * Customers
@@ -44,26 +45,20 @@ Through empathizing with the customers and the RM’s, we can see that the call 
 ### Customers
 
 #### User
-Customers who wish to purchase the companies holiday packages
+
 #### Need
-To purchase holiday packages from the Relationship Managers
+
 #### Insight
-The current situation with inbound calls prevents many suitable customers from being served due to time constraints
+
 ### Relationship Managers (RM)
 
 #### User
-Employees at the company who aim to make sales from inbound and outbound calls
+
 #### Need
-To make informed calls to customers likely to produce sales and to receive calls primarily from those likely to purchase packages
+
 #### Insight
-A more efficient system which matches manager skills with similarly skilled customers will help increase sales 
+
 ## How Might We Statements
-* How might we prioritise customers likely to make a purchase
-* How might we improve the call process for customers
-* How might we increase the efficiency of our calls
-* How might we improve the call flow rate
-* How might we automate less important actions
-* How might we improve the matching process between customers and relationship managers
 
 ## Assumptions Made
 It was assumed by the team that customers and employees listed their information upon registering to the company so that the profiling system will be functional with their details stored in a database ready for retrieval.
