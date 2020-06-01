@@ -21,22 +21,18 @@ The objectives include:
 * Relationship Managers
 * Call Centre Workers/Manager
 
-## Empathy map (info placed here, diagram in appendix)
-
-
-# Design Thinking Approach to address the problem
+# Design Thinking Approach
 
 ## Reflection
 
 ### Design Thinking Process
 
 #### Stage 1 - Empathy
-This process allowed us to view the system from the perspective of the customer and the RM giving us a better idea of what the needs and wants of the stakeholders are (see Appendix TBA). We noticed a general negative outlook on the time wasting call process.
+This process allowed us to view the system from the perspective of the customer and the relationship manager, giving us a better idea of what the needs and wants of the stakeholders are (see Appendix A). We noticed a general negative outlook on the time-wasting call process of the existing system.
 
-We found that customers were not satisfied with the core process of the call management system as there were long waits with the customers being paired with less suitable relationship managers. As shown in the POV statements (see below) , customers were also more inclined to utilise online services as inbound calling resulted in longer wait times.
+We found that customers were not satisfied with the core process of the call management system as there were long waits with the customers being paired with less suitable relationship managers. As shown in the Point-Of-View (POV) statements (see below), customers were also more inclined to utilise online services as inbound calling resulted in longer wait times.
 
-We also noticed that the RM’s work was less efficient with more unsuccessful sales as the managers were paired up with customers less likely to purchase the holiday packages. RM’s noticed that their competitors were able to make more sales due to their easier to use processes.From the ‘How Might We’ statements (see below), managers believed that having some automated voice response systems for less important tasks will help improve the call flow rate.
-
+We also noticed that the RM’s work was less efficient with more unsuccessful sales as the managers were paired up with customers less likely to purchase the holiday packages. RM’s noticed that their competitors were able to make more sales due to their easier to use processes. From the ‘How Might We’ statements (see the below POV Statements), managers believed that having some automated voice response systems for less important tasks will help improve the call flow rate.
 
 #### Stage 2 - Define
 Through empathizing with the customers and the RM’s, we can see that the call management system needs improvement on shortening the wait times for inbound calls as well as increasing call efficiency. This will increase customer and RM satisfaction and improve the call flow rate.
