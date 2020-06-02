@@ -82,9 +82,7 @@ It has been a bit difficult at first to identify how we can address the problem 
 * Employees listed their information upon joining the company
 * Customers’ details are stored in a database ready for retrieval
 * Relationship managers’ details are stored in a centralised database ready for retrieval
-
-### Assumptions Made
-It was assumed by the team that customers and employees listed their information upon registering to the company so that the profiling system will be functional with their details stored in a database ready for retrieval.
+* The profiling system will be functional with customer and employee details stored in a database ready for retrieval.
 
 ## Workproducts, Models and Descriptions
 
