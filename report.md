@@ -13,6 +13,7 @@ Presentation Video Link: https://www.youtube.com/watch?v=MeHik1HBFkc
   - [How Might We Statements](report.md)
   - [Reflections and Brainstormed Ideas](report.md)
 - [Workproducts, Models and Descriptions](report.md)
+  - [User Stories](report.md)
   - [Use Case Diagram](report.md)
   - [Activity Diagrams](report.md)
   - [Class Diagram](report.md)
@@ -109,6 +110,16 @@ It has been a bit difficult at first to identify how we can address the problem 
 * The profiling system will be functional with customer and employee details stored in a database ready for retrieval.
 
 ## Workproducts, Models and Descriptions
+### User Stories
+As a customer, I want a more efficient call process so that I am not waiting a long time to purchase a holiday package.
+
+As a customer, I want to be matched with a relationship manager that best matches my customer profile, so that I can find the most relevant holiday packages to purchase.
+
+As a relationship manager, I want to be matched with customers that match my level of expertise so that I can make sales more effectively and efficiently.
+
+As a relationship manager, I want to be able to fill out a 10 minute questionnaire, so that an RM profile will be created for me that will match me with customers that have a corresponding profile.
+
+As a relationship manager, I want repeat customers so that more customers are in high demand to purchase a holiday package.
 
 ### Use Case Diagram
 ![Use Case Diagram](images/use_case_diagram.jpeg)
