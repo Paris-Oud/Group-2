@@ -86,11 +86,17 @@ It was assumed by the team that customers and employees listed their information
 
 ## Workproducts, Models and Descriptions
 
-### Workproducts
+### Use Case Diagram
 
-### Models
+### Activity Diagram
 
-### Descriptions
+### Class Diagram
+
+### Collaborative Diagrams
+
+#### Inbound Calls
+
+#### Outbound Calls
 
 ## Competitive Advatanges and Possible Effects if the project fails
 
