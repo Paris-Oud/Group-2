@@ -9,7 +9,7 @@ To convert markdown to pdf using `pandoc`, first install the following packages:
 sudo apt install pandoc texlive-latex-recommended texlive-fonts-recommended
 ```
 
-Then run the following command to convert markdown file to pdf:
+Then run the following command to convert markdown to pdf:
 ```
 pandoc report.md -s -o report.pdf
 ```
@@ -21,7 +21,7 @@ To convert markdown to pdf using `markdown-pdf`, first install the following pac
 npm install markdown-pdf
 ```
 
-Then run the following command to convert markdown file to pdf:
+Then run the following command to convert markdown to pdf:
 ```
 npx markdown-pdf report.md
 ```
