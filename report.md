@@ -45,8 +45,9 @@ The objectives include:
 
 ### List of Stakeholders
 * Customers
-* Airlines/Flight Companies
-* Hoterls/Resorts
+* Companies involved with the holiday packages, including:
+    * Airlines/Flight Companies
+    * Hotels/Resorts
 * Travel Agents
 * Employees
 * Relationship Managers
