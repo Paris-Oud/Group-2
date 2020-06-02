@@ -88,6 +88,7 @@ It was assumed by the team that customers and employees listed their information
 ## Workproducts, Models and Descriptions
 
 ### Use Case Diagram
+![Class Diagram](images/Use Case Diagram.jpeg)
 
 ### Activity Diagram
 
