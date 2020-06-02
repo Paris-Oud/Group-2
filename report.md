@@ -1,6 +1,11 @@
 # Information System Development Methodologies - Project
 Presentation Video Link: https://youtu.be/MeHik1HBFkc
 
+## Table of Contents
+- [Executive Summary](report.md)
+- [Problem Definition](report.md)
+ - [Definition of the Problem](report.md)
+
 ## Executive Summary
 The existing problem that needs to be addressed is that relationship managers (RMs) require operational assistance in the in-house call management centre to serve their end-customers based according to the RMs’ experience and customers profiles. Currently, the system operation is complicated by the varying number and nature of holiday packages offered by the travel company. Objectives of this project include creating an information system which improves the operation of the call flow rate in the CMC as well as having a new and improved system that will provide services from RMs to customers through criteria based call flow control and improved call routing. A design thinking approach will be used to achieve these objects, using modelling tools such as user stories, use case diagrams, class diagrams and collaboration diagrams. The project is also to be carried out by utilising particular scrum activities. It has been found that the existing system should adopt a more streamlined approach (such as pairing RMs with customers suitable to their level of expertise and experience) to undergo processes between the RMs and customers to achieve a greater competitive advantage over other firms in the industry. 
 
