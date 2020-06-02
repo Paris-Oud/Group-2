@@ -92,12 +92,16 @@ It was assumed by the team that customers and employees listed their information
 ![Use Case Diagram](images/use_case_diagram.jpeg)
 
 ### Activity Diagram
+#### Inbound Calls
+![Activity Diagram Inbound Calls](images/activity_diagram_inbound_call.JPG)
+
+#### Profiler
+![Activity Diagram Profiler](images/activity_diagram_profiler.JPG)
 
 ### Class Diagram
 ![Class Diagram](images/ISDM_class_diagram.png)
 
 ### Collaborative Diagrams
-
 #### Inbound Calls
 ![Collaboration Diagram Inbound Calls](images/ISDM_collaboration_diagram_inbound_calls.png)
 
