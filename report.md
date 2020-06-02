@@ -41,24 +41,25 @@ We also noticed that the RM’s work was less efficient with more unsuccessful s
 
 ##### Stage 2 - Define
 Through empathizing with the customers and the RM’s, we can see that the call management system needs improvement on shortening the wait times for inbound calls as well as increasing call efficiency. This will increase customer and RM satisfaction and improve the call flow rate.
+
 ### Point of View Statements
 
 #### Customers
-
 ##### User
-Customers who wish to purchase the companies holiday packages
+Customers who wish to purchase the companies holiday packages.
 ##### Need
-To purchase holiday packages from the Relationship Managers
+To purchase holiday packages from the Relationship Managers.
 ##### Insight
-The current situation with inbound calls prevents many suitable customers from being served due to time constraints
+The current situation with inbound calls prevents many suitable customers from being served due to time constraints.
+
 #### Relationship Managers (RM)
-
 ##### User
-Employees at the company who aim to make sales from inbound and outbound calls
+Employees at the company who aim to make sales from inbound and outbound calls.
 ##### Need
-To make informed calls to customers likely to produce sales and to receive calls primarily from those likely to purchase packages
+To make informed calls to customers likely to produce sales and to receive calls primarily from those likely to purchase packages.
 ##### Insight
-A more efficient system which matches manager skills with similarly skilled customers will help increase sales 
+A more efficient system which matches manager skills with similarly skilled customers will help increase sales.
+
 ### How Might We Statements
 * How might we prioritise customers likely to make a purchase
 * How might we improve the call process for customers
@@ -95,8 +96,10 @@ It was assumed by the team that customers and employees listed their information
 ### Collaborative Diagrams
 
 #### Inbound Calls
+![Collaboration Diagram Inbound Calls](images/ISDM_collaboration_diagram_inbound_calls.png)
 
 #### Outbound Calls
+![Collaboration Diagram Outbound Calls](images/ISDM_collaboration_diagram_outbound_calls.png)
 
 ## Competitive Advatanges and Possible Effects if the project fails
 
