@@ -92,6 +92,7 @@ It was assumed by the team that customers and employees listed their information
 ### Activity Diagram
 
 ### Class Diagram
+![Class Diagram](images/ISDM_class_diagram.png)
 
 ### Collaborative Diagrams
 
