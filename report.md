@@ -151,6 +151,14 @@ Should the existing problem of the current system still exist as a result of pro
 Therefore, it is extremely vital that project failure does not occur in the new and improved system for the travel company as the costs could prove to be profoundly impactful on the overall health and performance of the business.
 
 ## Using GitHub to role-play agile methodologies
+### Explanation and outline of Scrum Activities used
+#### Product Backlog
+The product backlog lists the requirements which need to be implemented for the product to achieve the vision. This provides us with a general idea of what is missing in the project and what needs to be improved on. The backlog also allows the team to prioritise certain issues, allowing for smoother product development.
+
+The backlog gave us a rough idea of how many tasks needed to be completed before the due date, allowing us to efficiently prioritise the completion of the more lengthy tasks such as the diagrams by collaborating as a group. This helped save time as issues could be resolved through collaboration amongst peers.
+
+#### Sprint Review
+The sprint review is a meeting held at the end of the sprint where the team shows the client what has been finished. After multiple meetings, once all issues have been erased and any further issues resolved, the project is then complete and ready for release. This is an important activity to ensure that the project is still on track and that the project is currently meeting the client’s requirements.
 
 ## References
 Pressman, R.S. & Maxim, B.R. 2015, Software engineering: a practitioner's approach, 8th edn, McGraw-Hill Education, New York, NY.
