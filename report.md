@@ -4,7 +4,26 @@ Presentation Video Link: https://youtu.be/MeHik1HBFkc
 ## Table of Contents
 - [Executive Summary](report.md)
 - [Problem Definition](report.md)
- - [Definition of the Problem](report.md)
+  - [Definition of the Problem](report.md)
+  - [Objectives](report.md)
+  - [List of Stakeholders](report.md)
+- [Design Thinking Process](report.md)
+  - [Reflection](report.md)
+  - [Point of View Statements](report.md)
+  - [How Might We Statements](report.md)
+  - [Reflections and Brainstormed Ideas](report.md)
+- [Workproducts, Models and Descriptions](report.md)
+  - [Use Case Diagram](report.md)
+  - [Activity Diagrams](report.md)
+  - [Class Diagram](report.md)
+  - [Collaborative Diagram](report.md)
+- [Competititive Advantages and Possible Effects if the project fails](report.md)
+  - [Competitive Advantages](report.md)
+  - [Possible effects if the project fails](report.md)
+- [Using GitHub to role-play agile methodologies](report.md)
+- [References](report.md)
+- [Appendix](report.md)
+  - [Appendix A - Empathy Map](report.md)
 
 ## Executive Summary
 The existing problem that needs to be addressed is that relationship managers (RMs) require operational assistance in the in-house call management centre to serve their end-customers based according to the RMs’ experience and customers profiles. Currently, the system operation is complicated by the varying number and nature of holiday packages offered by the travel company. Objectives of this project include creating an information system which improves the operation of the call flow rate in the CMC as well as having a new and improved system that will provide services from RMs to customers through criteria based call flow control and improved call routing. A design thinking approach will be used to achieve these objects, using modelling tools such as user stories, use case diagrams, class diagrams and collaboration diagrams. The project is also to be carried out by utilising particular scrum activities. It has been found that the existing system should adopt a more streamlined approach (such as pairing RMs with customers suitable to their level of expertise and experience) to undergo processes between the RMs and customers to achieve a greater competitive advantage over other firms in the industry. 
@@ -94,7 +113,7 @@ It has been a bit difficult at first to identify how we can address the problem 
 ### Use Case Diagram
 ![Use Case Diagram](images/use_case_diagram.jpeg)
 
-### Activity Diagram
+### Activity Diagrams
 #### Inbound Calls
 ![Activity Diagram Inbound Calls](images/activity_diagram_inbound_call.JPG)
 
@@ -122,7 +141,7 @@ The effectiveness of the service would be improved through the ‘profiler tool�
 
 Overall, the new and improved system will allow the travel company to have a competitive advantage against other competitors in the same industry. This is due to the projected increase in efficiency and effectiveness of the Call Management Centre’s new processes.
 
-### Possible Effects if the project fails
+### Possible effects if the project fails
 If the project does not turn out to become a success, consumers could mistrust the company's profiling tool and the call management centre because of the lack of competency which the system has compared to other competitors’ systems. A high level of mistrust in the travel company could lead potential customers to be more likely to use an alternative service.
 
 A low-quality system would be produced if the project were to fail. A low-quality service being provided to the customer may cause mistrust of the call management centre, which may hinder the reputation of the business, leading to the loss of potential business for the travel company (Pressman & Maxim 2015). Therefore, it will make customers less inclined to follow through the call management centre’s processes and complete the mandatory prerequisites required by the system, resulting in a decline of sales being made for the travel company.
