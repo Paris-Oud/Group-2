@@ -1,6 +1,12 @@
 # Information System Development Methodologies - Project
 Presentation Video Link: https://www.youtube.com/watch?v=v7PzdW8aGaU
 
+## Group 2
+Paris Oudomvilay - 13239280
+Ayush Rauniyar - 13878309
+Matthew - 11980758
+Sanish Prasad - 13618610
+
 ## Table of Contents
 - [Executive Summary](#executive-summary)
 - [Problem Definition](#problem-definition)
